@@ -1,1 +1,1 @@
-<img src="destiny.gif">
+<img src="destiny.gif" width="200" height="400">
